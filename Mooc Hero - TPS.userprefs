@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyTrace.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="28" Column="16" />
+      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyTrace.cs" Line="53" Column="5" />
+      <File FileName="Assets/Scripts/EnemyHealth.cs" Line="22" Column="38" />
+      <File FileName="Assets/Scripts/EnemyAttack.cs" Line="26" Column="69" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="63" Column="5" />
+      <File FileName="Assets/Scripts/AutoCreateObject.cs" Line="30" Column="26" />
+      <File FileName="Assets/Scripts/PlayerAttack.cs" Line="54" Column="6" />
+      <File FileName="Assets/Scripts/DominoCollide.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
